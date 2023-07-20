@@ -1,7 +1,7 @@
 # Deploy (Front-end) - Template de Prática
-**Vamos utilizar esse repositório para as práticas da aula!**
+**Repositório para práticas da aula!**
 
-# Link para o Back-end
-https://github.com/labenuexercicios/deploy-template-backend
+# Link do deploy feito em aula
+https://aula-deploy.surge.sh
 
 
